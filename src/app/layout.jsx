@@ -1,8 +1,8 @@
 import '@styles/globals.css';
 
 export const metadata = {
-  title: 'Automation',
-  description: 'Automation landing description',
+  title: 'Neuronals',
+  description: 'Artificial Intelligence Powered Automation',
 };
 
 export default function RootLayout({ children }) {

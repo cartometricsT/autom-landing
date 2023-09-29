@@ -38,34 +38,28 @@ export default function Homepage() {
         <div className="border-b border-black mx-auto mb-20">
           <div className="flex flex-col sm:flex-row items-center">
             <img src="/images/icono1.svg" alt="Icon" className="h-14 mr-4" />
-            <h3 className="text-2xl text-center mb-5  sm:text-4xl sm:text-left font-semibold">Actionable Insights</h3>
-            <p className="ml-4 text-2xl text-center text-slate-400 sm:text-right mb-5 font-mono">Gain valuable insights into customer interactions across email and social media platforms.</p>
+            <h3 className="text-2xl text-center mb-5  sm:text-4xl sm:text-left font-semibold">Personalized Automated Responses</h3>
+            <p className="ml-4 text-2xl text-center text-slate-400 sm:text-right mb-5 font-mono">Deliver instant, customized responses to your clients through various channels, including website chatbots, email, and social media interactions.</p>
           </div>
         </div>
 
         <div className="border-b border-black mx-auto mb-20">
           <div className="flex flex-col sm:flex-row items-center">
             <img src="/images/icono2.svg" alt="Icon" className="h-14 mr-4 " />
-            <h3 className="text-2xl text-center mb-5 sm:text-4xl sm:text-left font-semibold">Effortless Communication</h3>
-            <p className="ml-4 text-2xl text-center text-slate-400 sm:text-right mb-5 font-mono">Streamline your communication channels, from emails to social media, with automated solutions, ensuring efficient, timely responses without human intervention.</p>
+            <h3 className="text-2xl text-center mb-5 sm:text-4xl sm:text-left font-semibold">Precise Data Extraction</h3>
+            <p className="ml-4 text-2xl text-center text-slate-400 sm:text-right mb-5 font-mono">Extract crucial data from documents in your preferred format, eliminating manual tasks.</p>
           </div>
         </div>
 
         <div className="border-b border-black mx-auto mb-20">
           <div className="flex flex-col sm:flex-row items-center">
             <img src="/images/icono3.svg" alt="Icon" className="h-14 mr-4" />
-            <h3 className="text-2xl text-center mb-5 sm:text-4xl sm:text-left font-semibold">Global Reach</h3>
-            <p className="ml-4 text-2xl text-center text-slate-400 sm:text-right mb-5 font-mono">Seamlessly serve customers worldwide with our multi-language capabilities, allowing you to connect with a diverse audience effortlessly.</p>
+            <h3 className="text-2xl text-center mb-5 sm:text-4xl sm:text-left font-semibold">Creative Content Generation</h3>
+            <p className="ml-4 text-2xl text-center text-slate-400 sm:text-right mb-5 font-mono">Create social media content based on your instructions and keywords, saving you time and effort.</p>
           </div>
         </div>
 
-        <div className="border-b border-black mx-auto mb-20">
-          <div className="flex flex-col sm:flex-row items-center">
-            <img src="/images/icono4.svg" alt="Icon" className="w-14 mr-4 " />
-            <h3 className="text-2xl text-center mb-5 sm:text-4xl sm:text-left font-semibold ">Enhanced Engagement</h3>
-            <p className="ml-4 text-2xl text-center text-slate-400 sm:text-right mb-5 font-mono">Our AI-powered chatbots and social media automation ensure that your customers receive immediate, personalised responses, boosting engagement and satisfaction.</p>
-          </div>
-        </div>
+        
 
     
       </section>
