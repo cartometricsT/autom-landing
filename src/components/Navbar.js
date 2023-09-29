@@ -13,11 +13,11 @@ function Navbar() {
             {/* Logo and CompanyName */}
             <div className="flex items-center">
               <img
-                className="h-8"
-                src="/images/logo.png"
+                className="h-5"
+                src="/images/logo.svg"
                 alt="Workflow"
               />
-              <span className="text-1xl ml-2 sm:text-2xl font-bold text-black">CompanyName</span>
+              <span className="text-1xl ml-2 sm:text-2xl font-bold font-mono text-black">NEURONALS</span>
             </div>
 
             {/* Laptop version buttons */}
